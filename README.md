@@ -7,7 +7,7 @@ Data Science & Economics Enthusiast
 I started coding with R during academia but have been diving deeper into Python for Data Science and Economics.
 
 * 🌍  I'm based in United States
-* 🖥️  See my portfolio at [Power BI and Excel Work Samples](http://www.novypro.com/profile_projects/lukedata)
+* 🖥️  See some of my other work at [Power BI and Excel Work Samples](http://www.novypro.com/profile_projects/lukedata)
 * ✉️  You can contact me at [luke3dwards32@gmail.com](mailto:luke3dwards32@gmail.com)
 * 🧠  I'm learning ML and DS with Python
 
