@@ -9,7 +9,6 @@ Consistently furthering my knowledge of Machine Learning and Statistical Analysi
 * 🌍  I'm based in the United States
 * 🖥️  See some of my other work at [Power BI and Excel Work Samples](http://www.novypro.com/profile_projects/lukedata)
 * ✉️  You can contact me at [luke3dwards32@gmail.com](mailto:luke3dwards32@gmail.com)
-* 🧠  I'm currently brainstorming my next project!
 
 ### Skills
 
